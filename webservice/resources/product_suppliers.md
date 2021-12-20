@@ -4,7 +4,7 @@ title: Product suppliers
 
 # Resources for Product suppliers
 
-### Product_supplier
+### Product_suppliers
 
 |              Name              |    Format    | Required | Max size |     Description      |
 | :----------------------------- | :----------- | :------: | -------: | :------------------- |
